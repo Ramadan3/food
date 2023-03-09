@@ -1,5 +1,5 @@
 <?php
 
-    echo "Are u seruous right now?;
+    echo "Are u seruous right now?";
 
 ?>
